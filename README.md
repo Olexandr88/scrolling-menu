@@ -1,4 +1,4 @@
-# &lt;scrolling-menu/&gt; [![NPM Version][npm-image]][npm-url] [![Published on webcomponents.org][webcomponents-image]][webcomponents-url] ![File Size][filesize-image] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependency Monitor][greenkeeper-image]][greenkeeper-url]
+[![Published on webcomponents.org][webcomponents-image]][webcomponents-url] ![File Size][filesize-image] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependency Monitor][greenkeeper-image]][greenkeeper-url]
 
 > A (native) web component for a menu that scrolls horizontally or vertically.
 
@@ -173,14 +173,8 @@ Depending on your target browsers, you may need polyfills/shims for the followin
 1. **Why not add `options` and `selectedOptions` properties from `HTMLSelectElement`?**  
 Unfortunately, they're live `HTMLElement` collections that cannot be extended.
 
-
-[npm-image]: https://img.shields.io/npm/v/scrolling-menu.svg
-[npm-url]: https://npmjs.com/package/scrolling-menu
 [webcomponents-image]: https://img.shields.io/badge/webcomponents.org-unpublished-red.svg
 [webcomponents-url]: https://www.webcomponents.org/element/scroller-menu
-[filesize-image]: https://img.shields.io/badge/size-8.4kB%20gzipped-blue.svg
-[travis-image]: https://img.shields.io/travis/stevenvachon/scrolling-menu.svg
-[travis-url]: https://travis-ci.org/stevenvachon/scrolling-menu
 [coveralls-image]: https://img.shields.io/coveralls/stevenvachon/scrolling-menu.svg
 [coveralls-url]: https://coveralls.io/github/stevenvachon/scrolling-menu
 [greenkeeper-image]: https://badges.greenkeeper.io/stevenvachon/scrolling-menu.svg
